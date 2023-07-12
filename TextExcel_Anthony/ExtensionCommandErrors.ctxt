@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=ExtensionCommandErrors
+comment0.text=\r\n\ Extension\ command\ errors\ test\r\n\ \r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=void\ initializeGrid()
+comment1.text=\r\n\ Extension\ test\r\n
+comment2.params=
+comment2.target=void\ testInvalidCommand()
+comment2.text=\r\n\ Extension\ test\r\n
+comment3.params=
+comment3.target=void\ testInvalidCellAssignment()
+comment3.text=\r\n\ Extension\ test\r\n
+comment4.params=
+comment4.target=void\ testInvalidConstants()
+comment4.text=\r\n\ Extension\ test\r\n
+comment5.params=
+comment5.target=void\ testInvalidFormulaAssignment()
+comment5.text=\r\n\ Extension\ test\r\n
+comment6.params=
+comment6.target=void\ testWhitespaceTolerance()
+comment6.text=\r\n\ Extension\ test\r\n
+numComments=7

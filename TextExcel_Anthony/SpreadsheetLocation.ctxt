@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=SpreadsheetLocation
+comment0.text=\r\n\ Represents\ a\ location\ in\ the\ spreadsheet\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=int\ getRow()
+comment2.params=
+comment2.target=int\ getCol()
+comment3.params=cellName
+comment3.target=SpreadsheetLocation(java.lang.String)
+comment3.text=\r\n\ Constructor\r\n\ \r\n\ @param\ cellName\ Name\ of\ cell,\ like\ "A1"\r\n
+numComments=4

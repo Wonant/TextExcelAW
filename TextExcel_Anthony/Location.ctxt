@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Location
+comment0.text=\r\n\ Location\ interface\r\n\ \r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=int\ getRow()
+comment1.text=\r\n\ Gets\ row\ of\ this\ location\r\n\ \r\n\ @return\ row\r\n
+comment2.params=
+comment2.target=int\ getCol()
+comment2.text=\r\n\ Gets\ col\ of\ this\ location\r\n\ \r\n\ @return\ col\r\n
+numComments=3

@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=RealCell
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ RealCell\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=RealCell()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ RealCell\r\n
+comment2.params=
+comment2.target=java.lang.String\ abbreviatedCellText()
+comment2.text=\r\n\ Text\ for\ spreadsheet\ cell\ display,\ must\ be\ exactly\ length\ 10\r\n\ \r\n\ @return\ string\r\n
+comment3.params=
+comment3.target=java.lang.String\ fullCellText()
+comment3.text=\r\n\ Text\ for\ individual\ cell\ inspection,\ not\ truncated\ or\ padded\r\n\ \r\n\ @return\ string\r\n
+numComments=4

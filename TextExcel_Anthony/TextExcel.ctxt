@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=TextExcel
+comment0.text=\r\n\ Text\ version\ of\ excel\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment1.text=\r\n\ Runs\ the\ text\ excel.\r\n\ \r\n\ @param\ args\ Not\ used\r\n
+comment2.params=
+comment2.target=java.lang.String\ getCommandString()
+numComments=3

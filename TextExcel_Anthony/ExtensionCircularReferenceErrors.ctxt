@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=ExtensionCircularReferenceErrors
+comment0.text=\r\n\ Extension\ circular\ reference\r\n\ \r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=void\ initializeGrid()
+comment1.text=\r\n\ Extension\ test\r\n
+comment2.params=row\ col\ formula\ description
+comment2.target=void\ assertEvalError(int,\ int,\ java.lang.String,\ java.lang.String)
+comment2.text=\r\n\ Extension\ test\r\n\ @param\ row\ row\r\n\ @param\ col\ col\r\n\ @param\ formula\ formula\r\n\ @param\ description\ description\r\n
+comment3.params=row\ col\ expected\ formula\ description
+comment3.target=void\ assertEvalOK(int,\ int,\ java.lang.String,\ java.lang.String,\ java.lang.String)
+comment3.text=\r\n\ Extension\ test\r\n\ @param\ row\ row\r\n\ @param\ col\ col\r\n\ @param\ expected\ expected\r\n\ @param\ formula\ formula\r\n\ @param\ description\ description\r\n
+comment4.params=
+comment4.target=void\ testCircularReference()
+comment4.text=\r\n\ Extension\ test\r\n
+numComments=5
